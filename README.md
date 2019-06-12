@@ -1,5 +1,5 @@
 **Flask Tutorial Application**
-
+---------------
 This is a simple application base on the tutorial on Flask documentation.
 The functionality include:
 + Register / Login User
@@ -8,3 +8,6 @@ The functionality include:
     - Create new post
     - Update if you're the post author
     - Delete post
+--------------
+Short demo:
+![](app.gif)
