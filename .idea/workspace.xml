@@ -58,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/flaskr/blog.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="491">
-              <caret line="97" column="42" lean-forward="true" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
+              <caret line="97" column="42" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
               <folding>
                 <element signature="e#0#90#0" expanded="true" />
               </folding>
@@ -70,8 +70,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="144">
-                <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+              <first_editor relative-caret-position="192">
+                <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               </first_editor>
               <second_editor />
             </state>
@@ -82,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/flaskr/templates/blog/update.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="256">
-              <caret line="16" column="75" lean-forward="true" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+              <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -91,7 +91,7 @@
         <entry file="file://$PROJECT_DIR$/flaskr/templates/blog/create.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
-              <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -214,12 +214,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560305142255</updated>
-      <workItem from="1560305164103" duration="25281000" />
+      <workItem from="1560305164103" duration="25560000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25281000" />
+    <option name="totallyTimeSpent" value="25560000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -234,13 +234,13 @@
     <frame x="954" y="161" width="974" height="880" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17943107" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17943107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.32996207" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3253012" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.3253012" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5010941" side_tool="true" weight="0.26639894" />
       <window_info anchor="bottom" id="Database Console" weight="0.32873276" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -470,21 +470,21 @@
     <entry file="file://$PROJECT_DIR$/flaskr/templates/blog/create.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
-          <caret line="12" column="26" lean-forward="true" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/templates/blog/update.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
-          <caret line="16" column="75" lean-forward="true" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
+          <caret line="16" column="75" selection-start-line="16" selection-start-column="75" selection-end-line="16" selection-end-column="75" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flaskr/blog.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="491">
-          <caret line="97" column="42" lean-forward="true" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
+          <caret line="97" column="42" selection-start-line="97" selection-start-column="42" selection-end-line="97" selection-end-column="42" />
           <folding>
             <element signature="e#0#90#0" expanded="true" />
           </folding>
@@ -494,8 +494,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <first_editor relative-caret-position="192">
+            <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           </first_editor>
           <second_editor />
         </state>

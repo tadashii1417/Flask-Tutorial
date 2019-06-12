@@ -9,5 +9,6 @@ The functionality include:
     - Update if you're the post author
     - Delete post
 --------------
-Short demo:
+Short demo: <br />
+
 ![](app.gif)
